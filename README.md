@@ -21,20 +21,6 @@ The model is trained on a publicly available spam email dataset. The dataset inc
   - `pandas` and `numpy` for data manipulation.
   - `Streamlit` for building the interactive app.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vaishnavikhairnar3018/Spam-Email-Classification-using-NLP-and-Machine-Learning.git
-   cd Spam-Email-Classification-using-NLP-and-Machine-Learning
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the app:
-   ```bash
-   streamlit run spamDetector.py
-   ```
 
 ## File Structure
 ```
